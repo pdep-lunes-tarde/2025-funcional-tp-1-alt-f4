@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: alt+f4
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 213.991-1
+- Nombre: Thiago Facundo Perez
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
