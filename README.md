@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: 213.991-1
 - Nombre: Thiago Facundo Perez
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 208.452-1 
+- Nombre: Nicolas Agustín Bustos
 
 
 ## Objetivos
