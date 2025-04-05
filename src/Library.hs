@@ -24,7 +24,7 @@ superficieCubo :: Number -> Number
 superficieCubo lado = lado * lado * 6
 
 superficieCilindro :: Number -> Number -> Number
-superficieCilindro r h = 2 * pi * r * (r + h)
+superficieCilindro radio altura = 2 * pi * radio * (radio + altura)
 
 -- 2. Temperaturas
 
