@@ -42,18 +42,4 @@ haceFrioCelsius tempC = tempC <= 8
 haceFrioFahrenheit :: Number -> Bool
 haceFrioFahrenheit tempF = fahrenheitACelsius tempF <= 8
 
--- 2.5 Bonus OPCIONAL
-perimetroCirculo :: Number -> Number
-perimetroCirculo radio = 2 * pi * radio
 
-perimetroCuadrado :: Number -> Number
-perimetroCuadrado lado = lado * 4
-
-superficieCuadrado :: Number->Number
-superficieCuadrado lado = lado * lado
-
-superficieCubo :: Number->Number
-superficieCubo lado = 6 * lado * lado
-
-superficieCilindro :: Number -> Number ->Number
-superficieCilindro radio altura = 2*pi*radio*(radio+altura)
