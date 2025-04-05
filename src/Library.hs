@@ -12,6 +12,20 @@ esPositivo num = num > 0
 inversa :: Number -> Number
 inversa num = 1/num
 
+-- 1.5 Bonus OPCIONAL 
+
+perimetroCuadrado :: Number -> Number
+perimetroCuadrado lado = lado * 4
+
+superficieCuadrado :: Number -> Number
+superficieCuadrado lado = lado * lado
+
+superficieCubo :: Number -> Number
+superficieCubo lado = lado * lado * 6
+
+superficieCilindro :: Number -> Number -> Number
+superficieCilindro r h = 2 * pi * r * (r + h)
+
 -- 2. Temperaturas
 
 celsiusAFahrenheit :: Number->Number
